@@ -1,6 +1,6 @@
 # transformer 
 
-This project provides a step-by-step explanation of the Transformer model, covering both theoretical foundations and implementation from scratch.
+This project provides a step-by-step explanation of the Transformer model, covering both theoretical explanation and implementation from scratch.
 It is designed for anyone who wants to deeply understand Transformers, including:
 
 How self-attention works 🔄
